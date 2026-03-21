@@ -18,10 +18,6 @@ O desenvolvimento seguiu princípios de separação de responsabilidades (HTML p
 * **Identidade Visual:** Uso de contraste entre `#202020` (Preto) e `#b7ca02` (Verde Limão Girotto).
 * **Responsividade:** Design adaptativo (Mobile-First) que reorganiza menus e botões para uma melhor experiência em dispositivos sensíveis ao toque.
 
-### 3. Dinâmica de Interface (JavaScript)
-* **Manipulação do DOM:** Seleção e controle programático do trilho de cards de trabalhos.
-* **Interatividade:** Implementação de funções de scroll horizontal acionadas por eventos de clique nas setas de navegação.
-
 ---
 
 ## 📸 Visual do Projeto
