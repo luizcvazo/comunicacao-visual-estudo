@@ -1,40 +1,39 @@
-🚀 Girotto Comunicação Visual - Landing Page
-Esta é uma Landing Page de estudos de HTML semântico e CSS Flexbox, GRID e Responsividade. O projeto foi focado em criar uma experiência de usuário fluida, destacando o portfólio da empresa e facilitando o contato direto do cliente.
+# 🚀 Girotto Comunicação Visual - Landing Page
 
-🛠️ Detalhes Técnicos e Explicações
-1. Arquitetura do Layout (HTML5 Semântico)
-O projeto foi construído utilizando as melhores práticas de semântica para garantir acessibilidade e melhor ranqueamento em mecanismos de busca (SEO):
+Esta é uma Landing Page institucional de estudo HTML semântico e CSS Flexbox, GRID e responsividade.
+Portfólio desenvolvido para a **Girotto Comunicação Visual**, focada em apresentar serviços de fachadas, adesivagem e painéis personalizados.
 
-Header Fixo: Implementado com position: fixed para manter a navegação sempre acessível, independentemente do scroll.
+## 🛠️ Detalhes do Projeto e Engenharia
 
-Seções Identificadas: Uso de id estratégicos para permitir a navegação por âncoras (Smooth Scroll), conectando o menu diretamente aos blocos de conteúdo.
+O desenvolvimento seguiu princípios de separação de responsabilidades (HTML para estrutura, CSS para apresentação), visando um código limpo e de fácil manutenção.
 
-Cards de Conteúdo: Utilização de article e figure para agrupar as fotos dos trabalhos e seus respectivos detalhes técnicos.
+### 1. Arquitetura do Layout (HTML5 Semântico)
+* **Header Fixo:** Implementado para garantir que a navegação e o acesso ao orçamento estejam sempre visíveis ao usuário.
+* **Navegação por Âncoras:** Uso de IDs estratégicos (`#inicio`, `#projetos`, `#depoimentos`) para criar um fluxo de navegação interno fluido.
+* **Semântica:** Utilização de tags como `<main>`, `<section>`, `<article>` e `<address>` para garantir acessibilidade e SEO.
 
-2. Estilização Avançada (CSS3)
-A interface foi desenhada para refletir a identidade visual da marca (Preto e Verde Limão):
+### 2. Design e Estilização (CSS3)
+* **Flexbox & Grid:** * **Flexbox:** Utilizado na Navbar e no Carrossel para alinhamento dinâmico.
+    * **CSS Grid:** Aplicado na seção de depoimentos com `repeat(auto-fit, minmax(300px, 1fr))` para uma grade inteligente que dispensa múltiplas media queries.
+* **Identidade Visual:** Uso de contraste entre `#202020` (Preto) e `#b7ca02` (Verde Limão Girotto).
+* **Responsividade:** Design adaptativo (Mobile-First) que reorganiza menus e botões para uma melhor experiência em dispositivos sensíveis ao toque.
 
-Sistema de Cores: Uso de contrastes fortes e gradientes lineares (linear-gradient) no corpo da página para dar profundidade ao design.
+### 3. Dinâmica de Interface (JavaScript)
+* **Manipulação do DOM:** Seleção e controle programático do trilho de cards de trabalhos.
+* **Interatividade:** Implementação de funções de scroll horizontal acionadas por eventos de clique nas setas de navegação.
 
-Flexbox & Grid: * Flexbox: Utilizado no cabeçalho e no carrossel para alinhamento dinâmico de elementos.
+---
 
-CSS Grid: Implementado na seção de depoimentos com repeat(auto-fit, minmax(300px, 1fr)) para criar um layout que se auto-ajusta sem precisar de media queries complexas.
+## 📸 Visual do Projeto
+[**](https://www.figma.com/proto/wFbKYIf6vrO2Q4Ie3V1wKc/GIROTTO-WIREFRAME?node-id=1-2&page-id=0%3A1&starting-point-node-id=1%3A2&t=5ON85FNN3etM8SFE-1)
 
-Responsividade: Implementação de @media queries para reorganizar o menu e os botões em dispositivos móveis, garantindo que a área de clique seja confortável para o polegar (Mobile Friendly).
+## 💻 Como Rodar o Projeto
+1. Clone este repositório ou baixe os arquivos.
+2. Certifique-se de que a estrutura de pastas e imagens está correta.
+3. Abra o arquivo `index.html` em qualquer navegador moderno.
 
-3. Dinâmica de Navegação (JavaScript)
-A interatividade do carrossel de projetos foi desenvolvida focando na manipulação do DOM:
+---
 
-Seleção de Elementos: Uso de document.querySelector para capturar os controles e o trilho de imagens.
-
-Event Listeners: Escutadores de eventos de clique que acionam a lógica de rolagem.
-
-Método scrollBy: Implementação de rolagem horizontal programática, permitindo que o usuário navegue pelos projetos de forma suave e controlada através das setas laterais.
-
-📸 Visual inicial do Projeto (Wireframe - Design UI)
-https://www.figma.com/proto/wFbKYIf6vrO2Q4Ie3V1wKc/GIROTTO-WIREFRAME?node-id=1-2&page-id=0%3A1&starting-point-node-id=1%3A2&t=5ON85FNN3etM8SFE-1
-
-👨‍💻 Autor
-Luiz Carlos Vazo - Curso: Bacharelado em Engenharia de Software.
-
-Qual o próximo passo?
+## 👨‍💻 Autor
+**Luiz Carlos Vazo** Estudante de **Engenharia de Software**.  
+Focado em desenvolvimento web moderno e arquitetura de interfaces.
