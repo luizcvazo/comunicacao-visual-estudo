@@ -25,7 +25,7 @@ O desenvolvimento seguiu princípios de separação de responsabilidades (HTML p
 ---
 
 ## 📸 Visual do Projeto
-[**](https://www.figma.com/proto/wFbKYIf6vrO2Q4Ie3V1wKc/GIROTTO-WIREFRAME?node-id=1-2&page-id=0%3A1&starting-point-node-id=1%3A2&t=5ON85FNN3etM8SFE-1)
+[*Link do Wireframe no Fimga (Projeto autoral)*](https://www.figma.com/proto/wFbKYIf6vrO2Q4Ie3V1wKc/GIROTTO-WIREFRAME?node-id=1-2&page-id=0%3A1&starting-point-node-id=1%3A2&t=5ON85FNN3etM8SFE-1)
 
 ## 💻 Como Rodar o Projeto
 1. Clone este repositório ou baixe os arquivos.
