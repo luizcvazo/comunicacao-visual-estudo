@@ -23,10 +23,8 @@ O desenvolvimento seguiu princípios de separação de responsabilidades (HTML p
 ## 📸 Visual do Projeto
 [*Link do Wireframe no Figma (Projeto autoral)*](https://www.figma.com/proto/wFbKYIf6vrO2Q4Ie3V1wKc/GIROTTO-WIREFRAME?node-id=1-2&page-id=0%3A1&starting-point-node-id=1%3A2&t=5ON85FNN3etM8SFE-1)
 
-## 💻 Como Rodar o Projeto
-1. Clone este repositório ou baixe os arquivos.
-2. Certifique-se de que a estrutura de pastas e imagens está correta.
-3. Abra o arquivo `index.html` em qualquer navegador moderno.
+## 💻 Acesse o projeto
+[*Github Pages*](https://luizcvazo.github.io/comunica-o-visual-estudo/#instagram)
 
 ---
 
