@@ -6,6 +6,7 @@ Portfólio desenvolvido para a **Girotto Comunicação Visual**, focada em apres
 ## 🛠️ Detalhes do Projeto e Engenharia
 
 O desenvolvimento seguiu princípios de separação de responsabilidades (HTML para estrutura, CSS para apresentação), visando um código limpo e de fácil manutenção.
+Modelo de wireframe de referência: https://www.figma.com/proto/wFbKYIf6vrO2Q4Ie3V1wKc/GIROTTO-WIREFRAME?node-id=1-2&p=f&viewport=578%2C300%2C0.71&t=SJCgNfB2jW9ZljzV-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A2&page-id=0%3A1
 
 ### 1. Arquitetura do Layout (HTML5 Semântico)
 * **Header Fixo:** Implementado para garantir que a navegação e o acesso ao orçamento estejam sempre visíveis ao usuário.
