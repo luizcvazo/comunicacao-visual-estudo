@@ -25,7 +25,7 @@ Modelo de wireframe de referência: https://www.figma.com/proto/wFbKYIf6vrO2Q4Ie
 [*Link do Wireframe no Figma (Projeto autoral)*](https://www.figma.com/proto/wFbKYIf6vrO2Q4Ie3V1wKc/GIROTTO-WIREFRAME?node-id=1-2&page-id=0%3A1&starting-point-node-id=1%3A2&t=5ON85FNN3etM8SFE-1)
 
 ## 💻 Acesse o projeto
-[*Github Pages*]([https://luizcvazo.github.io/comunica-o-visual-estudo/#instagram])
+[**Acessar o projeto**](https://luizcvazo.github.io/comunicacao-visual-estudo/)
 
 ---
 
